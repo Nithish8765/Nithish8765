@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nithish</h1>
 <h3 align="center">A passionate fullsatck developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithish8765&label=Profile%20views&color=0e75b6&style=flat" alt="nithish8765" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithish8765" alt="nithish8765" /></a> </p>
-
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Springboot**

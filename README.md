@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nithish</h1>
-<h3 align="center">A passionate fullsatck developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
@@ -8,6 +8,8 @@
 - 💬 Ask me about **Spring**
 
 - 📫 How to reach me **nithish8765@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EYmRm7WSq4lSkBKApEhzxbDrJnhkzsiC/view?usp=drive_link](https://drive.google.com/file/d/1EYmRm7WSq4lSkBKApEhzxbDrJnhkzsiC/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

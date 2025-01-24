@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nithish</h1>
 <h3 align="center">A Passionate fullstack developer from Mumbai</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI">
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ2c2VzOGJka2FhODdtOXFoM2l3d2h4MGE0ZXhtc2FsaXdlMnpmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UtnxCnjWAOL1J6TNUR/giphy.gif)">
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 

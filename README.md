@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nithish</h1>
 <h3 align="center">A Passionate fullstack developer from Mumbai</h3>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI">
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
